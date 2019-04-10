@@ -1,0 +1,111 @@
+!Type:Class
+NPersonal Finances
+DPersonal Finances
+^
+!Type:Cat
+!Option:AutoSwitch
+!Account
+NSavings:Money Market
+D
+TBank
+^
+!Account
+NSavings:Money Market
+D
+TBank
+^
+!Type:Bank
+D02/28/2019
+T0.04
+CX
+N
+PInterest
+M
+LInvestment:Interest Received
+^
+D02/04/2019
+T1000.00
+CX
+PTransfer
+L[Checking:Other Checking Account]
+^
+D02/05/2019
+T-300.00
+CX
+PTransfer
+L[Checking:Checking Account]
+^
+D02/25/2019
+T5000.00
+CX
+PTransfer
+L[Savings:Savings Account]
+^
+D01/31/2019
+T0.05
+CX
+N
+PInterest
+M
+LInvestment:Interest Received
+^
+D01/07/2019
+T500.00
+CX
+PTransfer
+L[Checking:Other Checking Account]
+^
+D01/01/2019
+T-1376.80
+CX
+N493661
+PMortgage Lender
+M
+S[Mortgage Lender]
+EMortgage Lender
+$-709.85
+SLoan:Interest
+EMortgage Lender
+$-351.26
+SLoan:Escrow
+EMortgage Lender
+$-315.69
+^
+D02/01/2019
+T-1376.80
+CX
+N942233
+PMortgage Lender
+M
+S[Mortgage Lender]
+EMortgage Lender
+$-711.55
+SLoan:Interest
+EMortgage Lender
+$-349.56
+SLoan:Escrow
+EMortgage Lender
+$-315.69
+^
+D01/29/2019
+T-300.00
+CX
+PTransfer
+L[Checking:Checking Account]
+^
+D03/01/2019
+T-1376.80
+CX
+N016056
+PMortgage Lender
+M
+S[Mortgage Lender]
+EMortgage Lender
+$-713.26
+SLoan:Interest
+EMortgage Lender
+$-347.85
+SLoan:Escrow
+EMortgage Lender
+$-315.69
+^
